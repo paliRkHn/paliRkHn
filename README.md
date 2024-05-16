@@ -1,12 +1,15 @@
 ### Hey! 👋
+<br />
 
-I'm Paloma, Web Development student.
-
+I'm Paloma, Web Development student. <br />
+&nbsp; <br />
+ 
 
 My ✨dispersed mind✨ had found some path in the sensory overload that is the Fullstack journey.
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind)](https://skillicons.dev)
 
+ &nbsp;
 
 
 Yeah.. fun fact: Bachelor Degree in Kinesiology. 🦴
