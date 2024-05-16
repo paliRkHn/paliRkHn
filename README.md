@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hey! 👋
 
+I'm Paloma, Web Development student.
+
+My ✨dispersed mind✨ had found some path in the sensory overload that is the Fullstack journey.
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind)](https://skillicons.dev)
+
+
+Yeah.. fun fact: Bachelor Degree in Kinesiology. 🦴
 <!--
 **paliRkHn/paliRkHn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
