@@ -12,7 +12,7 @@ My ✨dispersed mind✨ had found some path in the sensory overload that is the 
  &nbsp;
 
 
-Yeah.. fun fact: Bachelor Degree in Kinesiology. 🦴
+
 <!--
 **paliRkHn/paliRkHn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
