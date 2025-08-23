@@ -7,7 +7,7 @@ I'm Paloma, Web Development student. <br />
 
 My ✨dispersed mind✨ had found some path in the sensory overload that is the Fullstack journey.
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,firebase)](https://skillicons.dev)
 
  &nbsp;
 
