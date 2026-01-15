@@ -5,13 +5,18 @@ I'm Paloma, Web Development student. <br />
 &nbsp; <br />
  
 
-My ✨dispersed mind✨ had found some path in the sensory overload that is the Fullstack journey.
+My ✨dispersed mind✨ had found some path in the sensory overload that is the Fullstack journey. <br />
+&nbsp; <br />
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,firebase,nodejs)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,firebase,nodejs" />
+  </a>
+</p>
 
  &nbsp;
 
-
+<!-- [![My Skills](https://skillicons.dev/icons?i=react,tailwind,firebase,nodejs)](https://skillicons.dev) -->
 
 <!--
 **paliRkHn/paliRkHn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
